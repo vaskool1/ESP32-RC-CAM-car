@@ -146,3 +146,4 @@ This was a genuinely difficult project. A few notable hurdles:
 ## 📄 License
 
 Do whatever you want with this. Just have fun building it. 🚀
+<img width="3060" height="4080" alt="1000005147 1" src="https://github.com/user-attachments/assets/8a8a7ca8-4277-4c5d-a194-ac8dfa7ee874" />
